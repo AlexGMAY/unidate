@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.test
+
+# Build output
+dist/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+docker-data/
